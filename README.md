@@ -1,1 +1,1 @@
-# automatic-garbanzo
+# 请在Releases中下载程序
